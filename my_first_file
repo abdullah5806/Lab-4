@@ -2,8 +2,12 @@
 int a=20 , b=30 ;
 int sum ;
 sum = a + b ;
-Console.WriteLine($" The Sum of Two Nubers is : {sum} ");
+Console.WriteLine($" The Sum of Two Numbers is : {sum} ");
 
+int a=20 , b=30 ;
+int subt ;
+subt = a + b ;
+Console.WriteLine($" The Subtraction of Two Numbers is : {subt} ");
 
 
 
